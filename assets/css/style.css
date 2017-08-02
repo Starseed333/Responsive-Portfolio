@@ -142,7 +142,10 @@ footer
 	.about {
 		text-align: center;
 	}
-
+	
+	.wrapper {
+		width: 60%;
+	}
 	
 
 }
@@ -160,6 +163,10 @@ footer
 
 	.connect {
 		position: static;
+	}
+
+	.wrapper {
+		width: 30%;
 	}
 }
 
