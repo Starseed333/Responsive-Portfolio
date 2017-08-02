@@ -120,10 +120,48 @@ footer
 
 
 
+@media screen and (max-width: 980px){
+
+	.about{ 													
+	text-align: center;
+	}	
+
+
+	.connect{
+		position: static;
+	}
+	
+	}
+
+
+
+
+
 @media screen and (max-width: 768px){
 
-	.wrapper {
-		
+	.about {
+		text-align: center;
+	}
+
+	
+
+}
+
+
+@media screen and (max-width: 640px){
+
+	.about {
+		text-align: center;
+	}
+
+	h1 {
+		margin: 50px;
+	}
+
+	.connect {
+		position: static;
 	}
 }
+
+
 
