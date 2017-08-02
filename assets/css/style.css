@@ -147,6 +147,13 @@ footer
 		width: 60%;
 	}
 	
+	.connect {
+		padding: 60px;
+		width: 65%;
+		margin-left: 49px;
+	}
+
+	
 
 }
 
@@ -163,6 +170,8 @@ footer
 
 	.connect {
 		position: static;
+		padding: 60px;
+		width: 35%;
 	}
 
 	.wrapper {
