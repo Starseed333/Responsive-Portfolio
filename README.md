@@ -3,9 +3,5 @@
 
 ### **Description**
 
-A Responsive Portfolio using bootstrap, a front-end framework for faster and easier web development.  Mobile-first styles are part of the core framework.
-
-* Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
-
-* Bootstrap also gives you the ability to easily create responsive designs* Express-Handlebars* Method-Override
+This is a Responsive-Portfolio version application which looks good on all devices (desktops, tablets, and phones). Like any Responsive Web Design its about using HTML and CSS to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
 
